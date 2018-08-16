@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="31. Next Permutation\Permutation.cs" />
+    <Compile Include="33. Search in Rotated Sorted Array\BinarySearch.cs" />
+    <Compile Include="93. Restore IP Addresses\RestoreIPAddresses.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
