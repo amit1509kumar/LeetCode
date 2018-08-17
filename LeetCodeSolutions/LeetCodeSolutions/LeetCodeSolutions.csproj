@@ -47,6 +47,7 @@
     <Compile Include="31. Next Permutation\Permutation.cs" />
     <Compile Include="33. Search in Rotated Sorted Array\BinarySearch.cs" />
     <Compile Include="34. Find First and Last Position of Element in Sorted Array\FindFirstAdLastPositionOfElemenInSortedArray.cs" />
+    <Compile Include="35. Search Insert Position\SearchInsertPosition.cs" />
     <Compile Include="93. Restore IP Addresses\RestoreIPAddresses.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
