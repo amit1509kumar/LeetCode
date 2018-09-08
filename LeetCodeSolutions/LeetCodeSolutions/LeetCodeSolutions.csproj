@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="133. Clone Graph\CloneGraphSolution.cs" />
     <Compile Include="151. Reverse Words in a String\ReverseWordsInString.cs" />
     <Compile Include="31. Next Permutation\Permutation.cs" />
     <Compile Include="33. Search in Rotated Sorted Array\BinarySearch.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="540. Single Element in a Sorted Array\SingleElementSortedArray.cs" />
     <Compile Include="74. Search a 2D Matrix\SearchTwoDMatrix.cs" />
     <Compile Include="93. Restore IP Addresses\RestoreIPAddresses.cs" />
+    <Compile Include="Data Structure\UndirectedGraphNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -84,6 +86,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
