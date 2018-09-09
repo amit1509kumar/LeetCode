@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="129. Sum Root to Leaf Numbers\SumRoottoLeafNumbers.cs" />
     <Compile Include="133. Clone Graph\CloneGraphSolution.cs" />
     <Compile Include="151. Reverse Words in a String\ReverseWordsInString.cs" />
     <Compile Include="31. Next Permutation\Permutation.cs" />
@@ -65,8 +66,10 @@
     <Compile Include="34. Find First and Last Position of Element in Sorted Array\FindFirstAdLastPositionOfElemenInSortedArray.cs" />
     <Compile Include="35. Search Insert Position\SearchInsertPosition.cs" />
     <Compile Include="540. Single Element in a Sorted Array\SingleElementSortedArray.cs" />
+    <Compile Include="713. Subarray Product Less Than K\SubarrayProduct.cs" />
     <Compile Include="74. Search a 2D Matrix\SearchTwoDMatrix.cs" />
     <Compile Include="93. Restore IP Addresses\RestoreIPAddresses.cs" />
+    <Compile Include="Data Structure\TreeNode.cs" />
     <Compile Include="Data Structure\UndirectedGraphNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
