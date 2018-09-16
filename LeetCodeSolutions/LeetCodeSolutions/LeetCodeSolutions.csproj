@@ -65,6 +65,7 @@
     <Compile Include="33. Search in Rotated Sorted Array\BinarySearch.cs" />
     <Compile Include="34. Find First and Last Position of Element in Sorted Array\FindFirstAdLastPositionOfElemenInSortedArray.cs" />
     <Compile Include="35. Search Insert Position\SearchInsertPosition.cs" />
+    <Compile Include="42. Trapping Rain Water\TrappingRainWater.cs" />
     <Compile Include="540. Single Element in a Sorted Array\SingleElementSortedArray.cs" />
     <Compile Include="713. Subarray Product Less Than K\SubarrayProduct.cs" />
     <Compile Include="74. Search a 2D Matrix\SearchTwoDMatrix.cs" />

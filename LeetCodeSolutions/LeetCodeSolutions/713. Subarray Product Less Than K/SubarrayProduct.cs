@@ -1,8 +1,9 @@
-﻿/* the idea is to use sliding window technique to
- * keep multiplication window value smaller than k  */
+﻿using System.Collections.Generic;
+using System.Linq;
 namespace LeetCodeSolutions
 {
-   public class SubarrayProduct
+  
+    public class SubarrayProduct
     {
         public int NumSubarrayProductLessThanK(int[] nums, int k)
         {
