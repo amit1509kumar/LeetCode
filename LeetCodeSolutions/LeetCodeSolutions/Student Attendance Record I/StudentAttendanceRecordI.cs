@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodeSolutions.Student_Attendance_Record_I
+namespace LeetCodeSolutions
 {
     public class StudentAttendanceRecordI
     {

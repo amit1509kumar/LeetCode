@@ -72,6 +72,7 @@
     <Compile Include="93. Restore IP Addresses\RestoreIPAddresses.cs" />
     <Compile Include="Data Structure\TreeNode.cs" />
     <Compile Include="Data Structure\UndirectedGraphNode.cs" />
+    <Compile Include="Kth Largest Element in an Array\KthLargestElementInAnArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Student Attendance Record I\StudentAttendanceRecordI.cs" />
