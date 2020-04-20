@@ -72,6 +72,7 @@
     <Compile Include="713. Subarray Product Less Than K\SubarrayProduct.cs" />
     <Compile Include="74. Search a 2D Matrix\SearchTwoDMatrix.cs" />
     <Compile Include="93. Restore IP Addresses\RestoreIPAddresses.cs" />
+    <Compile Include="975. Odd Even Jump\OddEvenJump.cs" />
     <Compile Include="Data Structure\TreeNode.cs" />
     <Compile Include="Data Structure\UndirectedGraphNode.cs" />
     <Compile Include="Kth Largest Element in an Array\KthLargestElementInAnArray.cs" />
