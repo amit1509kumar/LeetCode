@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1048 Longest String Chain\LongestStringChain.cs" />
     <Compile Include="129. Sum Root to Leaf Numbers\SumRoottoLeafNumbers.cs" />
     <Compile Include="133. Clone Graph\CloneGraphSolution.cs" />
     <Compile Include="1396. Design Underground System\UndergroundSystem.cs" />
