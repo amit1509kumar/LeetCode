@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="1048 Longest String Chain\LongestStringChain.cs" />
+    <Compile Include="1130 Minimum Cost Tree From Leaf Values\MinimumCostTreeFromLeafValues.cs" />
     <Compile Include="129. Sum Root to Leaf Numbers\SumRoottoLeafNumbers.cs" />
     <Compile Include="133. Clone Graph\CloneGraphSolution.cs" />
     <Compile Include="1396. Design Underground System\UndergroundSystem.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="33. Search in Rotated Sorted Array\BinarySearch.cs" />
     <Compile Include="34. Find First and Last Position of Element in Sorted Array\FindFirstAdLastPositionOfElemenInSortedArray.cs" />
     <Compile Include="35. Search Insert Position\SearchInsertPosition.cs" />
+    <Compile Include="376. Wiggle Subsequence\WiggleSubsequence.cs" />
     <Compile Include="42. Trapping Rain Water\TrappingRainWater.cs" />
     <Compile Include="540. Single Element in a Sorted Array\SingleElementSortedArray.cs" />
     <Compile Include="713. Subarray Product Less Than K\SubarrayProduct.cs" />
